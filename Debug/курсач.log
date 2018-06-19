@@ -1,0 +1,12 @@
+﻿  курсач.cpp
+f:\games\programms\proects\курсач\курсач\курсач.cpp(264): warning C4101: sx: неиспользованная локальная переменная
+f:\games\programms\proects\курсач\курсач\курсач.cpp(989): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+f:\games\programms\proects\курсач\курсач\курсач.cpp(1296): warning C4101: str: неиспользованная локальная переменная
+f:\games\programms\proects\курсач\курсач\курсач.cpp(167): warning C4715: output_data: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(536): warning C4715: rem_list: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(771): warning C4715: change_list: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(878): warning C4715: change_us: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(980): warning C4715: add_user: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(1446): warning C4715: vhod_user: значение возвращается не при всех путях выполнения
+f:\games\programms\proects\курсач\курсач\курсач.cpp(1220): warning C4715: menu_adm: значение возвращается не при всех путях выполнения
+  курсач.vcxproj -> F:\games\programms\proects\курсач\Debug\курсач.exe
